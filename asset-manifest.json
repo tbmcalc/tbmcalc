@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tbmcalc/static/css/main.33b9b984.chunk.css",
+    "main.js": "/tbmcalc/static/js/main.719c7c76.chunk.js",
+    "main.js.map": "/tbmcalc/static/js/main.719c7c76.chunk.js.map",
+    "runtime-main.js": "/tbmcalc/static/js/runtime-main.dd8aefb5.js",
+    "runtime-main.js.map": "/tbmcalc/static/js/runtime-main.dd8aefb5.js.map",
+    "static/js/2.37c885d0.chunk.js": "/tbmcalc/static/js/2.37c885d0.chunk.js",
+    "static/js/2.37c885d0.chunk.js.map": "/tbmcalc/static/js/2.37c885d0.chunk.js.map",
+    "static/js/3.b97f666f.chunk.js": "/tbmcalc/static/js/3.b97f666f.chunk.js",
+    "static/js/3.b97f666f.chunk.js.map": "/tbmcalc/static/js/3.b97f666f.chunk.js.map",
+    "index.html": "/tbmcalc/index.html",
+    "static/css/main.33b9b984.chunk.css.map": "/tbmcalc/static/css/main.33b9b984.chunk.css.map",
+    "static/js/2.37c885d0.chunk.js.LICENSE.txt": "/tbmcalc/static/js/2.37c885d0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tbmcalc/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd8aefb5.js",
+    "static/js/2.37c885d0.chunk.js",
+    "static/css/main.33b9b984.chunk.css",
+    "static/js/main.719c7c76.chunk.js"
+  ]
+}
