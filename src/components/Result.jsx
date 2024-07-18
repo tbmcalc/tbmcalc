@@ -44,7 +44,7 @@ function Result(props) {
             <p className="info">This TBM diagnostic prediction model is intended for use only by health care professionals. In the context of suspected TBM, we suggest that the TBM diagnostic prediction model results should be used in conjunction with the experience of the treating clinician to guide immediate decisions about empiric TB treatment and the need for further or repeat testing.</p>
             </strong>
             <p>Statistical analysis performed by Anna Stadelman-Behar PhD, available <a className="link" href="https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.23-0789/article-10.4269-ajtmh.23-0789.xml">HERE</a></p>
-            <p>WebApp created by <a className="link" href="https://www.mfpullenmd.com">Matthew Pullen MD</a></p>
+            <p>App created by <a className="link" href="https://www.mfpullenmd.com">Matthew Pullen MD</a></p>
             </div>
         );
     } else {
@@ -58,7 +58,7 @@ function Result(props) {
                 <p className="info">This TBM diagnostic prediction model is intended for use only by health care professionals. In the context of suspected TBM, we suggest that the TBM diagnostic prediction model results should be used in conjunction with the experience of the treating clinician to guide immediate decisions about empiric TB treatment and the need for further or repeat testing.</p>
                 </strong>
                 <p>Statistical analysis performed by Anna Stadelman-Behar PhD, available <a className="link" href="https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.23-0789/article-10.4269-ajtmh.23-0789.xml">HERE</a></p>
-                <p>WebApp created by <a className="link" href="https://www.mfpullenmd.com">Matthew Pullen MD</a></p>
+                <p>App created by <a className="link" href="https://www.mfpullenmd.com">Matthew Pullen MD</a></p>
             </div>
         );
     }
