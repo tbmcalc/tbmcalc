@@ -1,0 +1,21 @@
+.centered-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    white-space: pre-wrap; /* Preserve whitespace and allow wrapping */
+    word-wrap: break-word; /* Break words when necessary */
+    width: 100%; /* Ensure it takes up the full width of the parent */
+    max-width: 100%; /* Ensure the text does not exceed the width of the card */
+    overflow-wrap: break-word; /* Break words to prevent overflow */
+  }
+
+  .link {
+    font-weight: 500;
+    color: #00008B;
+    text-decoration: underline;
+  }
+
+  .info {
+    font-weight: 500;
+  }

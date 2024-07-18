@@ -1,0 +1,14 @@
+.card {
+    border-radius: 12px;
+    box-shadow: -7px 8px 10px 1px #000000;
+    background-image: linear-gradient(109.6deg, rgba(156, 252, 248, 1) 11.2%, rgba(110, 123, 251, 1) 91.1%);
+    width: 65%; /* Default width for desktop */
+    padding: 2em;
+    box-sizing: border-box;
+  }
+  
+  @media (max-width: 768px) {
+    .card {
+      width: 90%; /* Width for mobile */
+    }
+  }

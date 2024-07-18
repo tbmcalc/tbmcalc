@@ -1,0 +1,64 @@
+.form__controls {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .form__control {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .form__control label {
+    flex: 2;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .form__control input {
+    flex: 2;
+    padding: 0.5rem;
+    width: 100%;
+  }
+  .form__control .react-select-container {
+    flex: 2;
+    padding: 0.5rem;
+    width: 10%;
+  }
+  
+  .form__actions {
+    text-align: center; /* Center the button */
+  }
+
+  .form__actions button {
+    background-color: teal; /* Teal background */
+    color: black; /* Black text */
+    padding: 0.6em 1.2em;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 500;
+  }
+  
+  .form__actions button:hover {
+    background-color: darkcyan; /* Slightly darker teal on hover */
+  }
+
+  .result-interp {
+    white-space: pre-wrap; /* Preserve whitespace and allow wrapping */
+    word-wrap: break-word; /* Break words when necessary */
+    width: 100%; /* Ensure it takes up the full width of the parent */
+    max-width: 100%; /* Ensure the text does not exceed the width of the card */
+    overflow-wrap: break-word; /* Break words to prevent overflow */
+  }
+
+  .sized {
+ /* Set the desired fixed width for the card */
+    padding: 1rem;
+    margin: 0 auto;
+    overflow: hidden; /* Ensure content does not overflow the card */
+  }
