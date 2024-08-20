@@ -11,8 +11,10 @@
 }
 
 body {
-  background: url(assets/background_tb.jpg);
-  background-size: cover;
+  //background: url(assets/background_tb.jpg);
+  //background-size: cover;
+  background: rgb(0,36,30);
+  background: linear-gradient(90deg, rgba(0,36,30,0.6768908246892507) 0%, rgba(52,167,175,0.6600841020001751) 61%);
   margin: 0;
   padding: 0;
   min-height: 100vh;
